@@ -1,0 +1,26 @@
+/* Margin collapse  */
+#q{
+    width: 300px;
+    height: 150px;
+    margin-bottom: 100px;
+    background-color: hsl(28, 81%, 45%);
+}
+#p{
+    width: 300px;
+    height: 150px;
+    margin-top: 100px;
+background-color: #77e607;
+}
+/* ............................................................................................ */
+/* normal margin */
+#a{
+    width: 300px;
+    height: 150px;
+    background-color: hsl(230, 81%, 45%);
+}
+#s{
+    width: 300px;
+    height: 150px;
+    margin-top: 100px;
+background-color: #e60742;
+}
